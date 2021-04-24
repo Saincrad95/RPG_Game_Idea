@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-24T01:25:31.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="05IBnTOb2nzCGpK8tORM" version="14.6.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-04-24T03:51:45.845Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.85 Safari/537.36" etag="ot5GTTpnoYryryI9Ke73" version="14.6.6" type="github" pages="3">
   <diagram id="IXOHsd6pKzo6Bmb4LVWl" name="Main Idea">
     <mxGraphModel dx="2302" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#DAD2D8" math="0" shadow="0">
       <root>
@@ -66,7 +66,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Uyyts-146WllbcELWai6" name="Game Mechanics">
-    <mxGraphModel dx="2302" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#DAD2D8" math="0" shadow="0">
+    <mxGraphModel dx="1096" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#DAD2D8" math="0" shadow="0">
       <root>
         <mxCell id="ifrmiHKLlVOKpXdgRVV8-0" />
         <mxCell id="ifrmiHKLlVOKpXdgRVV8-1" parent="ifrmiHKLlVOKpXdgRVV8-0" />
@@ -138,6 +138,38 @@
         </mxCell>
         <mxCell id="ifrmiHKLlVOKpXdgRVV8-26" value="Inventory" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="ifrmiHKLlVOKpXdgRVV8-1">
           <mxGeometry x="180" y="300" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="-QfaeqlmRwODTGYb7N92" name="Page-3">
+    <mxGraphModel dx="2062" dy="1099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#DAD2D8" math="0" shadow="0">
+      <root>
+        <mxCell id="mnscrjPuetZJztBIOxkP-0" />
+        <mxCell id="mnscrjPuetZJztBIOxkP-1" parent="mnscrjPuetZJztBIOxkP-0" />
+        <mxCell id="mnscrjPuetZJztBIOxkP-4" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="mnscrjPuetZJztBIOxkP-1" source="mnscrjPuetZJztBIOxkP-2" target="mnscrjPuetZJztBIOxkP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mnscrjPuetZJztBIOxkP-6" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="mnscrjPuetZJztBIOxkP-1" source="mnscrjPuetZJztBIOxkP-2" target="mnscrjPuetZJztBIOxkP-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mnscrjPuetZJztBIOxkP-2" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Story&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;rotation=0;" vertex="1" parent="mnscrjPuetZJztBIOxkP-1">
+          <mxGeometry x="320" y="440" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="mnscrjPuetZJztBIOxkP-9" style="edgeStyle=none;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="mnscrjPuetZJztBIOxkP-1" source="mnscrjPuetZJztBIOxkP-3" target="mnscrjPuetZJztBIOxkP-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mnscrjPuetZJztBIOxkP-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Over-arching story&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="mnscrjPuetZJztBIOxkP-1">
+          <mxGeometry x="600" y="480" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mnscrjPuetZJztBIOxkP-7" style="rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;fontColor=#143642;strokeColor=#A8201A;fillColor=#FAE5C7;" edge="1" parent="mnscrjPuetZJztBIOxkP-1" source="mnscrjPuetZJztBIOxkP-5" target="mnscrjPuetZJztBIOxkP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mnscrjPuetZJztBIOxkP-5" value="Zone story" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="mnscrjPuetZJztBIOxkP-1">
+          <mxGeometry x="360" y="240" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mnscrjPuetZJztBIOxkP-8" value="Exposition" style="whiteSpace=wrap;html=1;rounded=0;sketch=1;fontColor=#143642;strokeColor=#0F8B8D;fillColor=#FAE5C7;" vertex="1" parent="mnscrjPuetZJztBIOxkP-1">
+          <mxGeometry x="720" y="350" width="90" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
